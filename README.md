@@ -347,7 +347,4 @@
 
     * git diff --check
         * 检查空白错误
-         * > 根据 git help diff 的描述，结合下面给出的图片，空白错误是指行尾的空 格、Tab 制表符，和行首空格后跟 Tab 制表符的行为
-
-
-*XMind: ZEN - Trial Version*
+         * > 根据 git help diff 的描述，结合下面给出的图片，空白错误是指行尾的空格、Tab制表符，和行首空格后跟Tab制表符的行为
